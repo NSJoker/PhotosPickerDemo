@@ -11,6 +11,7 @@
 		CC7AADC2298120C100BE8F94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC7AADC1298120C100BE8F94 /* ContentView.swift */; };
 		CC7AADC4298120C200BE8F94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC7AADC3298120C200BE8F94 /* Assets.xcassets */; };
 		CC7AADC7298120C200BE8F94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC7AADC6298120C200BE8F94 /* Preview Assets.xcassets */; };
+		CC7AADCE298122E200BE8F94 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC7AADCD298122E200BE8F94 /* ColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CC7AADC1298120C100BE8F94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CC7AADC3298120C200BE8F94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC7AADC6298120C200BE8F94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CC7AADCD298122E200BE8F94 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CC7AADBF298120C100BE8F94 /* PhotosPickerDemoApp.swift */,
 				CC7AADC1298120C100BE8F94 /* ContentView.swift */,
+				CC7AADCD298122E200BE8F94 /* ColorExtension.swift */,
 				CC7AADC3298120C200BE8F94 /* Assets.xcassets */,
 				CC7AADC5298120C200BE8F94 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC7AADCE298122E200BE8F94 /* ColorExtension.swift in Sources */,
 				CC7AADC2298120C100BE8F94 /* ContentView.swift in Sources */,
 				CC7AADC0298120C100BE8F94 /* PhotosPickerDemoApp.swift in Sources */,
 			);
